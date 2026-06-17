@@ -24,10 +24,6 @@ Implement unit testing and integration testing for responsive UI components and 
 
 ![Desktop View](screenshots/desktop-view.png)
 
-### Tablet View
-
-![Tablet View](screenshots/tablet-view.png)
-
 ### Mobile View
 
 ![Mobile View](screenshots/mobile-view.png)
